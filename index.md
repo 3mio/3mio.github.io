@@ -7,3 +7,5 @@
 -3mio  
 -宇宙のどこか  
 
+<iframe width="500" height="300" src="https://www.youtube.com/embed/BdJMQlwvTuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
